@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
 
-##Overview of Analysis:
+## Overview of Analysis:
 The purpose of this analysis is to determine if any given person in the dataframe is high or low risk. To do this we will be using supervised machine learning to intake the data and teach the machine how to best predict risk status for these loan applicants. 
 
-##Results:
+## Results:
 In order to test all the proper channels of this data we performed 6 different machine learning models. Below I will list these out and show the balanced accuracy score, precision, and recall scores for all of the machine learning models:
 
     - Naive Random Oversampling: 
@@ -55,5 +55,5 @@ In order to test all the proper channels of this data we performed 6 different m
             - high risk .92
             - low risk .94
 
-##Summary:
+## Summary:
 In conclusion it looks like the classifier models had the highest accuracy. Low risk results for precision stayed pretty similar between multiple of the models. It seems overall the classifier models returned the best results. 
